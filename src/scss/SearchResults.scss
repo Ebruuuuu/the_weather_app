@@ -1,0 +1,30 @@
+.result{
+  display: flex;
+  align-items: center;
+  justify-content:space-between ;
+  width:90%;
+  min-height: 20vh;
+  margin:auto;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  
+  
+  
+  }
+  
+  ul{
+   display: flex;
+   justify-content: space-between;
+   list-style: none;  
+   width: 50%;
+  
+  }
+  
+  ul li{
+      display: flex;
+      margin-left:15px;
+     
+  }
+  
+  h2{
+      margin-left:5px;
+  }
