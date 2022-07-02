@@ -1,0 +1,10 @@
+.results {
+  list-style: none;
+  align-items: center;
+  justify-content: flex-start;
+  margin: auto; }
+
+h2 {
+  display: flex;
+  font-size: 2rem;
+  color: #ffd148; }

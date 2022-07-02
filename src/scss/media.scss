@@ -1,0 +1,55 @@
+@media (max-width: 800px) {
+  #city {
+    width: 43rem;
+    height: 10rem;
+    margin-left: 10px;
+  }
+
+  #input {
+    margin-left: 15px;
+  }
+
+  .list {
+    font-size: 1.2rem;
+    margin-left: -11px;
+  }
+
+  .weather {
+    padding: 0.8rem;
+    margin-bottom: 30px;
+    width: 39rem;
+    margin-left: -15px;
+  }
+  .weather h2 {
+    font-size: 0.9rem;
+  }
+
+  .weather h3 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 500px) {
+  #city {
+    width: 26rem;
+  }
+  #result {
+    margin-left: -34px;
+  }
+
+  .list {
+    font-size: 1.1rem;
+    margin-left: -6px;
+  }
+  .weather h2 {
+    font-size: 0.9rem;
+  }
+  .weather h3 {
+    font-size: 0.6rem;
+  }
+
+  .weather {
+    width: 23rem;
+    margin-left: -10px;
+  }
+}
